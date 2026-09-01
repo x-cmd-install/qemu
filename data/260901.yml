@@ -1,0 +1,78 @@
+about:
+  description: Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
+  license: NOASSERTION
+  homepage: http://www.qemu.org
+  head: d2e570c
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-01T05:28:43Z
+timeline:
+  created: 2012-08-11
+  lastCommit: 2026-08-28
+  lastRelease: ?
+popularity:
+  star: 13654
+  watcher: 419
+  fork: 7132
+  release: 0
+  contributor: 1918
+  pullRequest: 0
+  issue: 0
+language:
+  C: 79246827
+  C++: 10910888
+  Python: 4124502
+  Shell: 1443791
+  Assembly: 667007
+  Meson: 523973
+  Rust: 389247
+  Haxe: 380849
+  Perl: 163258
+  Objective-C: 149893
+  Makefile: 116939
+  Pawn: 48118
+  SmPL: 31614
+  Linker Script: 30891
+  Yacc: 29697
+  Lex: 23760
+  NSIS: 6939
+  DenizenScript: 3107
+  GLSL: 585
+  GDB: 326
+  DTrace: 231
+  Vim Script: 220
+  Emacs Lisp: 75
+totalLine: 98292737
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 422
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1778
+  last180d:
+    since: 2026-03-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 3764
+  last360d:
+    since: 2025-09-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 7331
