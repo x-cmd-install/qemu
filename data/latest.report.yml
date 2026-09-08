@@ -5,13 +5,13 @@ about:
   head: 35500e5
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-08T02:53:28Z
+  collectedAt: 2026-09-08T05:47:14Z
 timeline:
   created: 2012-08-11
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 13693
+  star: 13695
   watcher: 422
   fork: 7149
   release: 0
@@ -101,7 +101,7 @@ total:
   commit: 132909
 ---
 path: /home/runner/.x-repo/github.com/qemu/qemu
-collectedAt: 2026-09-08T02:54:58Z
+collectedAt: 2026-09-08T05:48:42Z
 loc:
   C:
     code: 1578305
