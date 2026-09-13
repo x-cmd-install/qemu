@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,709 · **Forks**: 7,171 · **Open issues**: 0 · **Contributors**: 1,920
+- **Stars**: 13,714 · **Forks**: 7,174 · **Open issues**: 0 · **Contributors**: 1,920
 
 ## Totals (cumulative)
 
@@ -52,22 +52,22 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 620 |
-| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 1247 |
-| 90d | 2026-06-14 | 0 | 0 | 0 | 0 | 0 | 2058 |
-| last180d | 2026-03-16 | 0 | 0 | 0 | 0 | 0 | 4090 |
-| 360d | 2025-09-17 | 0 | 0 | 0 | 0 | 0 | 7700 |
-| last720d | 2024-09-22 | 0 | 0 | 0 | 0 | 0 | 17364 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 425 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 1102 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 1926 |
+| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 3951 |
+| 360d | 2025-09-18 | 0 | 0 | 0 | 0 | 0 | 7504 |
+| last720d | 2024-09-23 | 0 | 0 | 0 | 0 | 0 | 17333 |
 
 ## Distribution status
 
-Reported by **2365** distros on [repology.org](https://repology.org/project/qemu). **670** are ✅ on the latest upstream release, **1572** are ⚠️ on an older version.
+Reported by **2364** distros on [repology.org](https://repology.org/project/qemu). **670** are ✅ on the latest upstream release, **1572** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `10.2.2` | 🪦 legacy |
 | Debian 14 | `11.1.0` | ⚠️ outdated |
-| Debian 13 | `10.0.11` | ⚠️ outdated |
+| Debian 13 | `10.0.13` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `10.2.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `8.2.2` | ⚠️ outdated |
 | Arch | `11.1.1` | ✅ latest |
@@ -87,4 +87,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:51:34Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:03:10Z._
