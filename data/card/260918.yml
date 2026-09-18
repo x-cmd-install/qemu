@@ -399,3 +399,4 @@ checks:
     details:
       - 'Warn: third-party GitHubAction not pinned by hash: .github/workflows/lockdown.yml:16: update your workflow using https://app.stepsecurity.io/secureworkflow/qemu/qemu/lockdown.yml/master?enable=pin'
       - 'Info:   0 out of   1 third-party GitHubAction dependencies pinned'
+---
