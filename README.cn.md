@@ -4,7 +4,7 @@
 
 Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.
 
-![qemu](https://repo.x-cmd.io/qemu.svg?lang=zh)
+[![x-cmd/install — qemu Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qemu.svg?lang=zh)](https://x-cmd.com/install/qemu)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install qemu
 
 ## 代码洞察
 
-合计: **2,491,430** 行代码（覆盖前 5 种语言、共 **8063** 个文件）。
+合计: **2,499,414** 行代码（覆盖前 5 种语言、共 **8083** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 1,581,104 | 226,490 | 269,277 | 4140 |
-| Bitbake | 417,551 | 2,697 | 39,184 | 199 |
-| CHeader | 232,950 | 108,950 | 47,281 | 2833 |
-| Python | 69,749 | 12,069 | 15,651 | 558 |
+| C | 1,584,657 | 226,809 | 270,000 | 4148 |
+| Bitbake | 417,573 | 2,713 | 39,184 | 199 |
+| CHeader | 236,880 | 109,283 | 47,818 | 2845 |
+| Python | 69,748 | 12,068 | 15,648 | 558 |
 | ReStructuredText | 49,931 | 0 | 16,265 | 333 |
 
 ## OpenSSF Scorecard 评分
@@ -42,22 +42,22 @@ x install qemu
 
 ## 流行度
 
-- **Star**: 13,737 · **Fork**: 7,186 · **开放 issue**: 0 · **贡献者**: 1,924
+- **Star**: 13,739 · **Fork**: 7,195 · **开放 issue**: 0 · **贡献者**: 1,928
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 133239
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 133339
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 496 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 1194 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 2019 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 4042 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 0 | 0 | 7587 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 0 | 0 | 17392 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 313 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 1125 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 1829 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 3917 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 0 | 0 | 7463 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 0 | 0 | 17490 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ qemu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:14:21Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:12:20Z._
