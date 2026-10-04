@@ -14,14 +14,14 @@ x install qemu
 
 ## Code insight
 
-Total: **2,506,327** lines of code across **8121** files in the top 5 languages.
+Total: **2,503,088** lines of code across **8121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,590,707 | 228,283 | 271,243 | 4176 |
+| C | 1,590,866 | 228,302 | 271,237 | 4176 |
 | Bitbake | 417,610 | 2,714 | 39,184 | 199 |
-| CHeader | 238,118 | 109,728 | 47,992 | 2852 |
-| Python | 69,909 | 12,073 | 15,675 | 559 |
+| CHeader | 238,161 | 109,728 | 47,993 | 2852 |
+| Python | 69,929 | 12,073 | 15,675 | 559 |
 | ReStructuredText | 50,126 | 0 | 16,316 | 335 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,811 · **Forks**: 7,248 · **Open issues**: 0 · **Contributors**: 1,933
+- **Stars**: 13,813 · **Forks**: 7,257 · **Open issues**: 0 · **Contributors**: 1,933
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 133731
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 133787
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 376 |
-| last60d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 1348 |
-| 90d | 2026-07-05 | 0 | 0 | 0 | 0 | 0 | 2015 |
-| last180d | 2026-04-06 | 0 | 0 | 0 | 0 | 0 | 4193 |
-| 360d | 2025-10-08 | 0 | 0 | 0 | 0 | 0 | 7602 |
-| last720d | 2024-10-13 | 0 | 0 | 0 | 0 | 0 | 17603 |
+| 30d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 266 |
+| last60d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 1175 |
+| 90d | 2026-07-06 | 0 | 0 | 0 | 0 | 0 | 1825 |
+| last180d | 2026-04-07 | 0 | 0 | 0 | 0 | 0 | 4151 |
+| 360d | 2025-10-09 | 0 | 0 | 0 | 0 | 0 | 7449 |
+| last720d | 2024-10-14 | 0 | 0 | 0 | 0 | 0 | 17632 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:22:44Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:48:18Z._
