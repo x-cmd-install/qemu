@@ -14,13 +14,13 @@ x install qemu
 
 ## Code insight
 
-Total: **2,504,444** lines of code across **8121** files in the top 5 languages.
+Total: **2,504,900** lines of code across **8121** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,591,780 | 228,455 | 271,407 | 4176 |
+| C | 1,592,224 | 228,533 | 271,477 | 4176 |
 | Bitbake | 418,029 | 2,773 | 39,548 | 199 |
-| CHeader | 238,279 | 109,783 | 48,015 | 2852 |
+| CHeader | 238,291 | 109,792 | 48,016 | 2852 |
 | Python | 69,965 | 12,078 | 15,681 | 559 |
 | ReStructuredText | 50,126 | 0 | 16,316 | 335 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,845 · **Forks**: 7,301 · **Open issues**: 0 · **Contributors**: 1,934
+- **Stars**: 13,850 · **Forks**: 7,308 · **Open issues**: 0 · **Contributors**: 1,935
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 133920
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 133940
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 192 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 979 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 1759 |
-| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 0 | 4054 |
-| 360d | 2025-10-18 | 0 | 0 | 0 | 0 | 0 | 7388 |
-| last720d | 2024-10-23 | 0 | 0 | 0 | 0 | 0 | 17544 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 210 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 997 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 1777 |
+| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 4072 |
+| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 7406 |
+| last720d | 2024-10-24 | 0 | 0 | 0 | 0 | 0 | 17538 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:59:34Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:01:13Z._
