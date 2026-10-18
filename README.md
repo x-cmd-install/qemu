@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,864 · **Forks**: 7,318 · **Open issues**: 0 · **Contributors**: 1,940
+- **Stars**: 13,869 · **Forks**: 7,326 · **Open issues**: 0 · **Contributors**: 1,940
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 392 |
-| last60d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 1201 |
-| 90d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 1986 |
-| last180d | 2026-04-20 | 0 | 0 | 0 | 0 | 0 | 4281 |
-| 360d | 2025-10-22 | 0 | 0 | 0 | 0 | 0 | 7615 |
-| last720d | 2024-10-27 | 0 | 0 | 0 | 0 | 0 | 17745 |
+| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 294 |
+| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 990 |
+| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 1826 |
+| last180d | 2026-04-21 | 0 | 0 | 0 | 0 | 0 | 3949 |
+| 360d | 2025-10-23 | 0 | 0 | 0 | 0 | 0 | 7412 |
+| last720d | 2024-10-28 | 0 | 0 | 0 | 0 | 0 | 17745 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T05:18:49Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:29:15Z._
