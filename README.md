@@ -14,15 +14,15 @@ x install qemu
 
 ## Code insight
 
-Total: **2,512,668** lines of code across **8159** files in the top 5 languages.
+Total: **2,513,290** lines of code across **8159** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,598,027 | 229,379 | 272,475 | 4198 |
+| C | 1,598,630 | 229,410 | 272,560 | 4198 |
 | Bitbake | 418,194 | 2,764 | 39,558 | 201 |
-| CHeader | 238,823 | 110,047 | 48,125 | 2859 |
+| CHeader | 238,825 | 110,056 | 48,126 | 2859 |
 | Python | 70,250 | 12,114 | 15,731 | 563 |
-| ReStructuredText | 50,299 | 0 | 16,369 | 338 |
+| ReStructuredText | 50,307 | 0 | 16,369 | 338 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,41 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,896 · **Forks**: 7,360 · **Open issues**: 0 · **Contributors**: 1,939
+- **Stars**: 13,900 · **Forks**: 7,363 · **Open issues**: 0 · **Contributors**: 1,940
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 134229
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 134254
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 333 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 1030 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 1866 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 0 | 3988 |
-| 360d | 2025-10-27 | 0 | 0 | 0 | 0 | 0 | 7452 |
-| last720d | 2024-11-01 | 0 | 0 | 0 | 0 | 0 | 17620 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 346 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 1049 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 1885 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 0 | 4007 |
+| 360d | 2025-10-28 | 0 | 0 | 0 | 0 | 0 | 7471 |
+| last720d | 2024-11-02 | 0 | 0 | 0 | 0 | 0 | 17645 |
+
+## Distribution status
+
+Reported by **2208** distros on [repology.org](https://repology.org/project/qemu). **635** are ✅ on the latest upstream release, **1439** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `10.2.2` | 🪦 legacy |
+| Debian 14 | `11.1.2` | ✅ latest |
+| Debian 13 | `10.0.13` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `10.2.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `8.2.2` | ⚠️ outdated |
+| Arch | `11.1.2` | ✅ latest |
+| Homebrew | `11.1.2` | ✅ latest |
+| Fedora rawhide | `11.1.2` | ✅ latest |
+| Nix unstable | `11.1.2` | ✅ latest |
+| Void | `11.1.2` | ✅ latest |
+| Alpine edge | `11.1.2` | ✅ latest |
+| openSUSE Tumbleweed | `11.1.2` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +87,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:53:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:56:01Z._
