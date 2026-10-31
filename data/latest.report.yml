@@ -2,32 +2,32 @@ about:
   description: "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website."
   license: NOASSERTION
   homepage: http://www.qemu.org
-  head: b574eaf
+  head: 4075aa4
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:53:10Z
+  collectedAt: 2026-10-31T06:38:41Z
 timeline:
   created: 2012-08-11
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 13955
+  star: 13960
   watcher: 422
-  fork: 7392
+  fork: 7395
   release: 0
-  contributor: 1951
+  contributor: 1953
   pullRequest: 0
   issue: 0
 language:
-  C: 80766546
-  C++: 11008315
+  C: 80856850
+  C++: 11011861
   Python: 4235438
-  Shell: 1199959
-  Assembly: 709147
+  Shell: 1201680
+  Assembly: 709191
   Meson: 638301
   Rust: 389552
   Haxe: 381382
@@ -46,81 +46,81 @@ language:
   GDB: 326
   DTrace: 231
   Vim Script: 220
-totalBytes: 99889007
+totalBytes: 99984622
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 513
+    commit: 551
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1237
+    commit: 1275
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2235
+    commit: 2289
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4364
+    commit: 4418
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 7819
+    commit: 7873
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 17867
+    commit: 17915
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 134833
+  commit: 134890
 ---
 path: /home/runner/.x-repo/github.com/qemu/qemu
-collectedAt: 2026-10-30T06:54:43Z
+collectedAt: 2026-10-31T06:40:01Z
 loc:
   C:
-    code: 1603031
-    comments: 229972
-    blanks: 273510
+    code: 1604641
+    comments: 230281
+    blanks: 273804
     files: 4219
   Bitbake:
-    code: 418841
-    comments: 2773
-    blanks: 39583
+    code: 418935
+    comments: 2774
+    blanks: 39596
     files: 210
   CHeader:
-    code: 239324
-    comments: 110349
-    blanks: 48234
+    code: 239381
+    comments: 110420
+    blanks: 48255
     files: 2866
   Python:
     code: 70964
@@ -128,9 +128,9 @@ loc:
     blanks: 15927
     files: 569
   ReStructuredText:
-    code: 50312
+    code: 50325
     comments: 0
-    blanks: 16369
+    blanks: 16374
     files: 338
   Json:
     code: 42487
@@ -162,16 +162,16 @@ loc:
     comments: 706
     blanks: 1318
     files: 63
+  Sh:
+    code: 5288
+    comments: 840
+    blanks: 676
+    files: 64
   ModuleDef:
     code: 5263
     comments: 0
     blanks: 1390
     files: 11
-  Sh:
-    code: 5245
-    comments: 829
-    blanks: 667
-    files: 63
   Perl:
     code: 4856
     comments: 509
@@ -288,10 +288,10 @@ loc:
     blanks: 1066
     files: 30
 total:
-  code: 2520474
-  comments: 383075
-  blanks: 413405
-  files: 9682
+  code: 2522291
+  comments: 383467
+  blanks: 413747
+  files: 9683
 ---
 date: "2026-10-19"
 repo:
