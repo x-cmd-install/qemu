@@ -14,25 +14,15 @@ x install qemu
 
 ## 代码洞察
 
-合计: **2,542,075** 行代码（覆盖前 5 种语言、共 **8307** 个文件）。
+合计: **2,542,445** 行代码（覆盖前 5 种语言、共 **8308** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 1,618,521 | 231,538 | 276,296 | 4291 |
+| C | 1,618,832 | 231,611 | 276,345 | 4292 |
 | Bitbake | 419,391 | 2,774 | 39,601 | 210 |
-| CHeader | 242,558 | 110,858 | 48,718 | 2892 |
-| Python | 72,458 | 12,310 | 16,130 | 576 |
+| CHeader | 242,568 | 110,858 | 48,721 | 2892 |
+| Python | 72,462 | 12,310 | 16,130 | 576 |
 | ReStructuredText | 50,466 | 0 | 16,412 | 338 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.4 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -42,41 +32,41 @@ x install qemu
 
 ## 流行度
 
-- **Star**: 13,995 · **Fork**: 7,432 · **开放 issue**: 0 · **贡献者**: 1,963
+- **Star**: 14,004 · **Fork**: 7,440 · **开放 issue**: 0 · **贡献者**: 1,967
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 135379
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 135411
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 622 |
-| last60d | 2026-09-09 | 0 | 0 | 0 | 0 | 0 | 1326 |
-| 90d | 2026-08-10 | 0 | 0 | 0 | 0 | 0 | 2311 |
-| last180d | 2026-05-12 | 0 | 0 | 0 | 0 | 0 | 4544 |
-| 360d | 2025-11-13 | 0 | 0 | 0 | 0 | 0 | 8101 |
-| last720d | 2024-11-18 | 0 | 0 | 0 | 0 | 0 | 18383 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 646 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 1353 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 2340 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 0 | 0 | 4574 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 0 | 0 | 8131 |
+| last720d | 2024-11-20 | 0 | 0 | 0 | 0 | 0 | 18351 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/qemu) 上共有 **2215** 个发行版报告此项目。**418** 个 ✅ 已是最新上游版本，**1664** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/qemu) 上共有 **2215** 个发行版报告此项目。**504** 个 ✅ 已是最新上游版本，**1578** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `10.2.2` | 🪦 legacy |
 | Debian 14 | `11.1.2` | ⚠️ outdated |
-| Debian 13 | `10.0.2` | 🪦 legacy |
+| Debian 13 | `10.0.13` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `10.2.1` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `8.2.2` | ⚠️ outdated |
 | Arch | `11.1.3` | ✅ latest |
 | Homebrew | `11.1.3` | ✅ latest |
 | Fedora rawhide | `11.1.3` | ✅ latest |
-| Nix unstable | `0.6.1.0a1` | 🪦 legacy |
+| Nix unstable | `11.1.2` | ⚠️ outdated |
 | Void | `11.1.3` | ✅ latest |
 | Alpine edge | `11.1.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `11.1.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `11.1.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -87,4 +77,4 @@ qemu 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:14:38Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:33:21Z._
