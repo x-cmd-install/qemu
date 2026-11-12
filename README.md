@@ -32,7 +32,7 @@ Total: **2,542,782** lines of code across **8312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 14,011 · **Forks**: 7,444 · **Open issues**: 0 · **Contributors**: 1,967
+- **Stars**: 14,019 · **Forks**: 7,453 · **Open issues**: 0 · **Contributors**: 1,967
 
 ## Totals (cumulative)
 
@@ -42,16 +42,16 @@ Total: **2,542,782** lines of code across **8312** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 659 |
-| last60d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 1366 |
-| 90d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 2353 |
-| last180d | 2026-05-15 | 0 | 0 | 0 | 0 | 0 | 4587 |
-| 360d | 2025-11-16 | 0 | 0 | 0 | 0 | 0 | 8144 |
-| last720d | 2024-11-21 | 0 | 0 | 0 | 0 | 0 | 18360 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 659 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 1366 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 2353 |
+| last180d | 2026-05-16 | 0 | 0 | 0 | 0 | 0 | 4587 |
+| 360d | 2025-11-17 | 0 | 0 | 0 | 0 | 0 | 8144 |
+| last720d | 2024-11-22 | 0 | 0 | 0 | 0 | 0 | 18360 |
 
 ## Distribution status
 
-Reported by **2215** distros on [repology.org](https://repology.org/project/qemu). **505** are ✅ on the latest upstream release, **1577** are ⚠️ on an older version.
+Reported by **2206** distros on [repology.org](https://repology.org/project/qemu). **505** are ✅ on the latest upstream release, **1568** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:43:50Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:47:42Z._
