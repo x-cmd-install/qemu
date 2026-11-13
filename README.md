@@ -14,13 +14,13 @@ x install qemu
 
 ## Code insight
 
-Total: **2,542,782** lines of code across **8312** files in the top 5 languages.
+Total: **2,542,962** lines of code across **8312** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,618,882 | 231,605 | 276,343 | 4292 |
+| C | 1,619,054 | 231,620 | 276,371 | 4292 |
 | Bitbake | 419,391 | 2,774 | 39,601 | 210 |
-| CHeader | 242,577 | 110,880 | 48,726 | 2892 |
+| CHeader | 242,585 | 110,883 | 48,727 | 2892 |
 | Python | 72,462 | 12,310 | 16,130 | 576 |
 | ReStructuredText | 50,744 | 0 | 16,512 | 342 |
 
@@ -32,26 +32,26 @@ Total: **2,542,782** lines of code across **8312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 14,019 · **Forks**: 7,453 · **Open issues**: 0 · **Contributors**: 1,967
+- **Stars**: 14,027 · **Forks**: 7,460 · **Open issues**: 0 · **Contributors**: 1,967
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 135424
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 135436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 0 | 0 | 0 | 0 | 659 |
-| last60d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 1366 |
-| 90d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 2353 |
-| last180d | 2026-05-16 | 0 | 0 | 0 | 0 | 0 | 4587 |
-| 360d | 2025-11-17 | 0 | 0 | 0 | 0 | 0 | 8144 |
-| last720d | 2024-11-22 | 0 | 0 | 0 | 0 | 0 | 18360 |
+| 30d | 2026-10-14 | 0 | 0 | 0 | 0 | 0 | 669 |
+| last60d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 1377 |
+| 90d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 2364 |
+| last180d | 2026-05-17 | 0 | 0 | 0 | 0 | 0 | 4598 |
+| 360d | 2025-11-18 | 0 | 0 | 0 | 0 | 0 | 8156 |
+| last720d | 2024-11-23 | 0 | 0 | 0 | 0 | 0 | 18370 |
 
 ## Distribution status
 
-Reported by **2206** distros on [repology.org](https://repology.org/project/qemu). **505** are ✅ on the latest upstream release, **1568** are ⚠️ on an older version.
+Reported by **2207** distros on [repology.org](https://repology.org/project/qemu). **505** are ✅ on the latest upstream release, **1569** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for qemu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:47:42Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:07:33Z._
